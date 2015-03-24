@@ -1,4 +1,3 @@
-== README
 
 Learning Rails
 ==
